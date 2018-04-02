@@ -1,0 +1,7 @@
+﻿  list.c
+c:\programming\google\homework\linked-lists\list.c(7): warning C4047: 'return': 'list_t *' differs in levels of indirection from 'int'
+c:\programming\google\homework\linked-lists\list.c(36): warning C4018: '<': signed/unsigned mismatch
+c:\programming\google\homework\linked-lists\list.c(105): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+c:\programming\google\homework\linked-lists\list.c(12): warning C4715: 'list_new': not all control paths return a value
+c:\programming\google\homework\linked-lists\list.c(31): warning C4716: 'list_add_item': must return a value
+  solution.vcxproj -> C:\Programming\Google\homework\linked-lists\solution\Debug\solution.exe
